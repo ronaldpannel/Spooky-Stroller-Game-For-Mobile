@@ -93,14 +93,15 @@ body {
 }
 .runBtn {
   display: block;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   z-index: 200;
   position: absolute;
   top: 50%;
   left: 13%;
   transform: translate(-50%, -50%);
   font-size: large;
+  text-align: center;
   border: solid black 2px;
   border-radius: 50%;
   background-color: transparent;
@@ -109,14 +110,15 @@ body {
 }
 .jumpBtn {
   display: block;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   z-index: 300;
   position: absolute;
   top: 50%;
   left: 88%;
   transform: translate(-50%, -50%);
   font-size: large;
+  text-align: center;
   border: solid black 2px;
   border-radius: 50%;
   background-color: transparent;
